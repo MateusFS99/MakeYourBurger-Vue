@@ -8,6 +8,15 @@
   </div>
 </template>
 
+<script>
+export default {
+  props: {
+    logo: String,
+    alt: String
+  }
+}
+</script>
+
 <style scoped>
 #navbar {
   background-color: #222;
@@ -39,12 +48,3 @@
   color: #FFF
 }
 </style>
-
-<script>
-export default {
-  props: {
-    logo: String,
-    alt: String
-  }
-}
-</script>
