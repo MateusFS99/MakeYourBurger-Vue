@@ -77,5 +77,29 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "pedro augusto de carvalho silva",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Mateus Fonseca Santos",
+      "pao": "3 Queijos",
+      "carne": "Picanha",
+      "opcionais": [
+        "Bacon",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    }
+  ]
 }
