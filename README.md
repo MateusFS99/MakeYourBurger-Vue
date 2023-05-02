@@ -1,4 +1,4 @@
-# make_your_burger
+# Make Your Burger
 
 ## Project setup
 ```
