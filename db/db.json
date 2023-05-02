@@ -79,17 +79,6 @@
   ],
   "burgers": [
     {
-      "nome": "pedro augusto de carvalho silva",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
       "nome": "Mateus Fonseca Santos",
       "pao": "3 Queijos",
       "carne": "Picanha",
@@ -98,7 +87,7 @@
         "Cebola roxa",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 2
     }
   ]
